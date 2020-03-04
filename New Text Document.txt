@@ -1,0 +1,9 @@
+{-turn on the flow notication of the deployed flow(in manage section)
+-go to observe
+-come back to manage and the notification bell icon would still off
+
+--Expected behavior is : the bell icon to stay on}
+
+{enable all user notification and disable all user notification have no functionality at all}
+
+{Time for trigger and action mentioned in mail is not correct.}
